@@ -6,16 +6,16 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: This project is an extension of Jarrekk from github. It uses javescript to get repo's information for all my repos have only one request.
 
-- name: LeetCode
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
-  img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Kimbot
+  i18n: kimbot
+  gh_user: datatalking
+  repo: Kimbot
+  img: /static/assets/img/landing/kimbot.png
+  desc: This project was the result of a Hackathon put on my Amazon and Integrated Life Sciences. It was a collaboration of their social media arm and wanting to produce high quality chatbots to improving quality of life.
 
-- name: FamilyCODE Wchat
-  i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+- name: James
+  i18n: James
+  img: /static/assets/img/landing/James.png
+  desc: James is one answer to a missing personalized intersection of artificial intelligence and improving the users experience. The backend is Python, AWS, Django, Flask microservices and genetic algorithms to replicate a child learning vs the boring-ness of normal machine learning.
