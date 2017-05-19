@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Salesforce Admin & Developer – Presbyterian Senior Services - December 2015 to February 2017
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: • Migrate legacy paper patient intake process from Microsoft Access to Salesforce cloud.
     i18n: company_a_desc
   date:
     detail: Apr. 2016
@@ -15,10 +15,11 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Data Analyst - Sproxil - September 2015 to June 2016 – Contract.
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: • Google Analytics subject matter expert, visualize customer traffic, monetize opportunities.
+            • Analysis of 160 gigabyte AWS data lake, startup pharma market, produce ad hoc reports.
     i18n: company_b_desc
   date:
     detail: Jun. 2015
@@ -27,3 +28,56 @@
     detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
+
+
+- name:
+    detail: Data Analyst & Salesforce Admin/Developer – Data Talks Consulting.
+October 2014 – November 2015.
+    i18n: company_c
+  desc:
+    detail: • Trained Salesforce and Zoho CRM users on best practices to drive growth.
+            • Creating Python based analytics system using 84 customer profile data points.
+            • Merged 4 databases via Excel into Salesforce, customized sales process software.
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Sabbatical, June 2014 – September 2014
+    i18n: company_d
+  desc:
+    detail: • Analyzed business intelligence software and CRM for predictive analytics platform.
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Financial Planner, Country Financial, October 2007 – May 2014
+    i18n: company_e
+  desc:
+    detail: • Provided hoc data regression and CRM pipeline analysis for Monte Carlo Risk.
+            • Grew sales from $340k to $840k, annual analysis of $2MM in 482 clients’ accounts.
+            • Analyzed B2B and B2C portfolios for risk management and market exposure.
+            • Spearheaded 6Sigma redesign of sales software for BOP & CPP insurance teams.
+            • Used Salesforce to improve user experience, resulted in +312% increase in sales.
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
